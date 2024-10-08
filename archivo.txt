@@ -1,0 +1,18 @@
+001_Panditas_20.2_24_Gomitas
+002_Pinguinos_15.32_14_Gomitas
+003_Haribo_16.0_15_Gomitas
+004_Carlos V_12.3_18_Chocolates 
+005_Hershey_22.21_10_Chocolates
+006_MilkyWay_23.0_11_Chocolates
+007_SandiBrocha_4.13_24_Paletas
+008_Tarrito_2.56_39_Paletas
+009_TutsiPOP_3.0_20_Paletas
+010_Chips Fuego_23.52_19_Papitas
+011_Sabritas Adobadas_25.31_11_Papitas
+012_Doritos_20.0_13_Papitas
+013_Oreo_16.31_16_Galletas
+014_Mantecadas_24.31_4_Galletas 
+015_Principe_18.0_3_Galletas
+016_Confeti_10.0_1_decoracion
+017_Bolsas_8.0_58_decoracion
+018_Globos_2.0_2_decoracion

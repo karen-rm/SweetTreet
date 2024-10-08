@@ -1,0 +1,9 @@
+----- Reporte de Ventas -----
+ID: 1
+Fecha: Mon Dec 04 01:35:44 CST 2023
+Total: 16.31
+Reporte Apartado
+ID: 1
+Fecha: Mon Dec 04 01:36:16 CST 2023
+Total: 20.0
+-------------------------------
