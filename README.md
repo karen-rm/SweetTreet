@@ -117,7 +117,7 @@ relaciones entre objetos, buscando optimizar el flujo de trabajo.
 Nuestro objetivo es optimizar la programación mediante la implementación de patrones que simplifiquen la lógica, en lugar de añadir complejidad al sistema.
 Esta revisión nos permite mejorar la claridad del diseño y potenciar la eficiencia en el desarrollo.
 
-<br><br>
+<br>
 
 #### Diagrama de clases final 
 El siguiente diagrama representa la estructura final del sistema:
@@ -131,6 +131,7 @@ El siguiente diagrama representa la estructura final del sistema:
 - [AZUL] Patrón Factory Method 
 
 ### Patrones de Diseño Utilizados
+<br>
 
 <b>Singleton</b>
 - Solo debe existir una instancia de la clase Historial.
@@ -144,12 +145,14 @@ El siguiente diagrama representa la estructura final del sistema:
 <b>Fachada</b>
 - La clase Caja unifica las interfaces de Venta, Historial y Catálogo, facilitando su uso para el Usuario. 
 
+<br>
 
 ### Herencia y Polimorfismo
 
 - Venta → ComponenteVenta, ComponenteVentaApartada
 - Pago → PagoVenta, PagoVentaApartada
-  
+- 
+<br>  
 
 ## Tecnologias
 - JAVA
