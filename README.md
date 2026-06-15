@@ -88,12 +88,7 @@ Ambos usuarios, tendrán que iniciar sesión en el sistema para poder usarlo.
 <p>Se elimina de la lista de pedidos</p>
 <img width="219" height="227" alt="image" src="https://github.com/user-attachments/assets/fc0d5b72-bb89-4d23-98d7-0bb7f57da4d7" />
 
-<hr>
 
-#### Salir del sistema: 
-<img width="971" height="669" alt="image" src="https://github.com/user-attachments/assets/1da50109-db43-441f-8c68-8a169a86a1bd" />
-
-<hr>
 
 ## Features
 
