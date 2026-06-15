@@ -156,7 +156,8 @@ El siguiente diagrama representa la estructura final del sistema:
 ## Tecnologias
 - JAVA
 - Apache NetBeans
-  
+
+<br>
 
 ## Autores
 
