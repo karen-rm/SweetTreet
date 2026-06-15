@@ -117,8 +117,6 @@ relaciones entre objetos, buscando optimizar el flujo de trabajo.
 Nuestro objetivo es optimizar la programación mediante la implementación de patrones que simplifiquen la lógica, en lugar de añadir complejidad al sistema.
 Esta revisión nos permite mejorar la claridad del diseño y potenciar la eficiencia en el desarrollo.
 
-<br>
-
 #### Diagrama de clases final 
 El siguiente diagrama representa la estructura final del sistema:
 
@@ -151,7 +149,7 @@ El siguiente diagrama representa la estructura final del sistema:
 
 - Venta → ComponenteVenta, ComponenteVentaApartada
 - Pago → PagoVenta, PagoVentaApartada
-- 
+  
 <br>  
 
 ## Tecnologias
