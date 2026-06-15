@@ -126,7 +126,9 @@ El siguiente diagrama representa la estructura final del sistema:
 
 - [ROJO] Patrón Fachada
 - [VERDE] Patrón Singleton
-- [AZUL] Patrón Factory Method 
+- [AZUL] Patrón Factory Method
+
+<br>
 
 ### Patrones de Diseño Utilizados
 <br>
@@ -150,7 +152,6 @@ El siguiente diagrama representa la estructura final del sistema:
 - Venta → ComponenteVenta, ComponenteVentaApartada
 - Pago → PagoVenta, PagoVentaApartada
   
-<br>  
 
 ## Tecnologias
 - JAVA
